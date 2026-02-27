@@ -138,6 +138,8 @@ Automated builds and secure delivery
 
 ##  **AWS Cloud Services**
 
+I dont really know much about AWS services ,I even thought i wont need much aws stuff on a gemini search i made for best services this is what i found 
+
 | Layer                        | AWS Service                                                   |
 | ---------------------------- | ------------------------------------------------------------- |
 | Layer 1 – Client Apps        | **CloudFront + S3 (Web), React Native stores on App stores**  |
