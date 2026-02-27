@@ -21,18 +21,20 @@ If not actionable: iLens stays silent. No noise, no interruption.
 Ribert Kandi Junior
 
 # Github
-https://github.com/Coding-Wave-Academy/iLens
+https://github.com/Coding-Wave-Academy/OctoCare
 
 
-# iLens — 10 Digestible Layers
 
-1. Screenshot Detection (Media Store Observer)
-2. Image Preprocessing (crop, clean, compress before analysis)
-3. OCR & Text Extraction (ML Kit on-device)
-4. QR / Barcode Detection
-5. Content Parser (URLs, phones, dates, addresses via regex + NLP)
-6. Intent Classifier (what does the user most likely want to do?)
-7. Overlay UI (floating action layer displayed to user)
-8. Action Router (executes the chosen action — browser, calendar, maps, dialer)
-9. History & Storage (local database of processed screenshots)
-10. Cloud Sync & Premium Layer (optional backup, cross-device, advanced AI)
+## Solution Architecture
+
+<img width="5125" height="4014" alt="iLens Solution Architecture Diagram - V1" src="https://github.com/user-attachments/assets/f0e73f0a-a0e4-4992-ae1b-ad6ff7c609b7" />
+<img width="723" height="300" alt="iLens Solution Architecture Diagram - V2" src="https://github.com/user-attachments/assets/1d6e9576-de75-4946-8c68-dfdb4c0d82c9" />
+
+
+
+
+
+
+
+
+
