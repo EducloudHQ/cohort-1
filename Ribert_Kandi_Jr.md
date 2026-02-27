@@ -1,11 +1,21 @@
-## Project name: OctoCare
+## Project name: iLens
 
 # Project Description
-OctoCare is a conversational AI health companion designed to improve access to timely medical care across African communities using familiar messaging platforms such as WhatsApp.
+iLens is a mobile application that transforms screenshots from static images into actionable interfaces. The product was born from a real, universal frustration: information that is visible inside an image but impossible to act on — a link you cannot tap, an event flyer with a registration URL, a Google Meet invite trapped in a screenshot.
 
-Through structured conversations via text or voice, OctoCare helps users organize symptoms, evaluates urgency using a hybrid clinical rule engine and AI reasoning, and provides clear guidance on appropriate next steps.
+## How It Works
 
-Instead of diagnosing illnesses, OctoCare focuses on triage and care coordination. The system categorizes cases into urgency levels, recommends nearby healthcare facilities, and generates structured pre-arrival summaries that can be shared with providers to reduce intake delays and improve patient prioritization.
+Step 1
+User takes a screenshot (any app, any content)
+Step 2
+iLens detects the screenshot via Media Store Observer
+Step 3
+On-device AI analyzes image — determines if actionable content exists
+Step 4
+If actionable: overlay appears with relevant action buttons
+Step 5
+If not actionable: iLens stays silent. No noise, no interruption.
+
 
 # Developer's name
 Ribert Kandi Junior
